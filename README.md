@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mirza-sami/dsa-practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mirza-sami/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/mirza-sami/dsa-practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mirza-sami/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mirza-sami/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mirza-sami/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mirza-sami/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
