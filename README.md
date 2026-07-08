@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mirza-sami/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mirza-sami/dsa-practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mirza-sami/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/mirza-sami/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [2965-find-missing-and-repeated-values](https://github.com/mirza-sami/dsa-practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mirza-sami/dsa-practice/tree/master/0079-word-search) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/mirza-sami/dsa-practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
