@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mirza-sami/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/mirza-sami/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/mirza-sami/dsa-practice/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mirza-sami/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mirza-sami/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mirza-sami/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/mirza-sami/dsa-practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mirza-sami/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/mirza-sami/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/mirza-sami/dsa-practice/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mirza-sami/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mirza-sami/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 ## String
 |  |
