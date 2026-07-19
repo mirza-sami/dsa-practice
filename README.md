@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mirza-sami/dsa-practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mirza-sami/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mirza-sami/dsa-practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/mirza-sami/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/mirza-sami/dsa-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/mirza-sami/dsa-practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/mirza-sami/dsa-practice/tree/master/0031-next-permutation) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mirza-sami/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/mirza-sami/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/mirza-sami/dsa-practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/mirza-sami/dsa-practice/tree/master/0125-valid-palindrome) |
 ## Sliding Window
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/mirza-sami/dsa-practice/tree/master/0493-reverse-pairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mirza-sami/dsa-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
