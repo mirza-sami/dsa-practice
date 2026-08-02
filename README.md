@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mirza-sami/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mirza-sami/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/mirza-sami/dsa-practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [2596-check-knight-tour-configuration](https://github.com/mirza-sami/dsa-practice/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/mirza-sami/dsa-practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mirza-sami/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mirza-sami/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/mirza-sami/dsa-practice/tree/master/0079-word-search) |
+| [2596-check-knight-tour-configuration](https://github.com/mirza-sami/dsa-practice/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/mirza-sami/dsa-practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mirza-sami/dsa-practice/tree/master/0079-word-search) |
+| [2596-check-knight-tour-configuration](https://github.com/mirza-sami/dsa-practice/tree/master/2596-check-knight-tour-configuration) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mirza-sami/dsa-practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/mirza-sami/dsa-practice/tree/master/2596-check-knight-tour-configuration) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -228,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/mirza-sami/dsa-practice/tree/master/1392-longest-happy-prefix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/mirza-sami/dsa-practice/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
